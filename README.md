@@ -164,6 +164,6 @@ ORDER BY Count DESC;
 
 **Uzer Bagban**
 Data Analyst & BI Enthusiast
-📧 [uzerbagban@gmail.com](mailto:uzerbagban2002@gmail.com)
+📧 [uzerbagban2002@gmail.com](mailto:uzerbagban2002@gmail.com)
 
 ---
