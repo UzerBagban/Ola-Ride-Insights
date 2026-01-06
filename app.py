@@ -18,8 +18,8 @@ st.markdown("Interactive SQL-powered analytics dashboard built using Streamlit")
 def get_connection():
     return pyodbc.connect(
         "DRIVER={ODBC Driver 17 for SQL Server};"
-        "SERVER=DESKTOP-ROAGST9\\SQLEXPRESS;"
-        "DATABASE=ola_db;"
+        "SERVER=YOUR_SERVER_NAME;"
+        "DATABASE=YOUR_DATABASE_NAME;"
         "Trusted_Connection=yes;"
     )
 
