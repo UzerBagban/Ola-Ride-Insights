@@ -42,43 +42,44 @@ Version Control: Git, GitHub
 1. Overall Metrics
 
 
-Ride Volume Over Time - Daily/Monthly ride trends
-
-Booking Status Breakdown - Success vs Cancelled rides
+  Ride Volume Over Time - Daily/Monthly ride trends
+  
+  Booking Status Breakdown - Success vs Cancelled rides
 
 
 2. Vehicle Type Analysis
 
 
-Top 5 Vehicle Types by Ride Distance - Most used vehicles
-
-Average Customer Ratings by Vehicle Type - Service quality per vehicle
+  Top 5 Vehicle Types by Ride Distance - Most used vehicles
+  
+  Average Customer Ratings by Vehicle Type - Service quality per vehicle
 
 
 3. Revenue Analysis
 
 
-Revenue by Payment Method - Payment preference analysis
-
-Top 5 Customers by Total Booking Value - Most valuable customers
-
-Ride Distance Distribution Per Day - Daily usage patterns
+  Revenue by Payment Method - Payment preference analysis
+  
+  Top 5 Customers by Total Booking Value - Most valuable customers
+  
+  Ride Distance Distribution Per Day - Daily usage patterns
 
 
 4. Cancellation Analysis
 
 
-Cancelled Rides Reasons (Customer) - Why customers cancel
-
-Cancelled Rides Reasons (Drivers) - Why drivers cancel
+  Cancelled Rides Reasons (Customer) - Why customers cancel
+  
+  Cancelled Rides Reasons (Drivers) - Why drivers cancel
 
 
 5. Ratings Analysis
 
 
-Driver Ratings Distribution - Driver performance
+  Driver Ratings Distribution - Driver performance
+  
+  Customer vs Driver Ratings - Correlation analysis
 
-Customer vs Driver Ratings - Correlation analysis
 
 
 Prerequisites
@@ -90,6 +91,8 @@ MySQL/PostgreSQL (for SQL queries)
 Power BI Desktop
 
 Git
+
+
 
 ✅ Completed Tasks
 
