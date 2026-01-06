@@ -112,15 +112,6 @@ pip install -r requirements.txt
 - **Dashboard Load Time**: < 3 seconds
 - **App Responsiveness**: Mobile & desktop optimized
 
-## 🔗 Quick Links
-
-| Resource | Link | Description |
-|----------|------|-------------|
-| **📊 Live Dashboard** | [Power BI Report](#) | Interactive dashboard |
-| **🌐 Web App** | [Streamlit App](#) | Live application |
-| **🗃️ Database** | [SQL Queries](#) | All SQL scripts |
-| **📁 Dataset** | [Download Data](https://drive.google.com/drive/folders/12onyQF6Zh_M8voCPSdSpt4BSfw6T3tg3) | OLA ride data |
-| **📚 Documentation** | [Project Docs](#) | Complete documentation |
 
 ## 📈 Sample Insights
 
