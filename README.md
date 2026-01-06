@@ -157,3 +157,13 @@ ORDER BY Count DESC;
 - [ ] **Real-time tracking** of live rides
 - [ ] **Mobile application** development
 - [ ] **API development** for third-party integration
+
+---
+
+## 👨‍💻 Author
+
+**Uzer Bagban**
+Data Analyst & BI Enthusiast
+📧 [uzerbagban@gmail.com](mailto:uzerbagban@gmail.com)
+
+---
