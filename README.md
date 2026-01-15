@@ -24,14 +24,10 @@ This project analyzes Ola's ride-sharing data to extract actionable insights for
 ## 🛠️ Technical Stack
 
 ### **Programming & Database**
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%2FPostgreSQL-orange?logo=mysql)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas)
 
 ### **Visualization & Dashboard**
 ![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboards-yellow?logo=powerbi)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?logo=python)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-red)
 
 ### **Web Application & Tools**
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit)
@@ -74,11 +70,9 @@ This project analyzes Ola's ride-sharing data to extract actionable insights for
 ## 🚀 Quick Start Guide
 
 ### **Prerequisites Checklist**
-- [x] **Python 3.8+** installed
 - [x] **MySQL/PostgreSQL** setup
 - [x] **Power BI Desktop** installed
 - [x] **Git** configured
-- [x] **Virtual Environment** ready
 
 ### **Installation in 3 Steps**
 ```bash
